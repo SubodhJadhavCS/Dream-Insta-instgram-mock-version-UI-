@@ -17,14 +17,13 @@ Android Jetpack Components
 Local Storage (SharedPreferences / Room Database)
 Material Design UI
 📷 Screenshots
-
+Copy![Screenshot_20250224-113218_My Files](https://github.com/user-attachments/assets/a7c4234a-22de-4423-bef2-a3b1470e184a)
 
 🚀 Installation & Setup
 Clone the repository:
 sh
-Copy
 Edit
-git clone 
+git clone  
 Open the project in Android Studio.
 Build and run on an Android device or emulator.
 🎯 Project Highlights
