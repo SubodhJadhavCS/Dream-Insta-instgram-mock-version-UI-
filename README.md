@@ -17,13 +17,14 @@ Android Jetpack Components
 Local Storage (SharedPreferences / Room Database)
 Material Design UI
 📷 Screenshots
-Copy![Screenshot_20250224-113218_My Files](https://github.com/user-attachments/assets/a7c4234a-22de-4423-bef2-a3b1470e184a)
+Copy 
+[Screenshot_20250224-113218_My Files](https://github.com/user-attachments/assets/a7c4234a-22de-4423-bef2-a3b1470e184a)
 
 🚀 Installation & Setup
 Clone the repository:
 sh
 Edit
-git clone  
+git clone  https://github.com/SubodhJadhavCS/Dream-Insta-instgram-mock-version-UI-.git
 Open the project in Android Studio.
 Build and run on an Android device or emulator.
 🎯 Project Highlights
